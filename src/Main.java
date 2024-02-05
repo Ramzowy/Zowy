@@ -12,8 +12,8 @@ public class Main {
                totalAmount = taxAmount + purchasePrice;
 
 
-             System.out.println(totalAmount);
-             System.out.println(taxAmount);
+             System.out.println("The total purchase price is " + totalAmount);
+             System.out.println("The total tax amount is " + taxAmount);
 
 
 
